@@ -1,7 +1,7 @@
 <?php
 return [
 	//file path of client credentials from google developers console download
-	'file' => 'client_secrets.json',
+	'file' => '../../../../../../client_secrets.json',
 
 	//Redirect uri for oauth2 callback to authorize application
     'redirect_uri' => '',

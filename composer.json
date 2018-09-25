@@ -1,5 +1,5 @@
 {
-    "name": "andrewlamers/php-google-cloud-print",
+    "name": "gelinger777/php-google-cloud-print",
     "description": "PHP Google cloud print api wrapper",
     "type": "library",
     "require": {
